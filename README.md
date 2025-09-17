@@ -1,6 +1,6 @@
 # Processamento Digital de Imagens
 
-## 1. Exercícios práticos
+## 1. Exercícios práticos -  Aula 17/09/25
 ### **Exercício 1 — NumPy básico**
 - Crie uma matriz 5x5 com valores aleatórios entre 0 e 100.
 - Encontre o maior e menor valor.
